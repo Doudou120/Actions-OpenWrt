@@ -1,0 +1,5 @@
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git helloworld https://github.com/fw876/helloworld
+src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
+src-git passwall https://github.com/awesome-openwrt/luci-app-passwall
